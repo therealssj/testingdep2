@@ -1,0 +1,3 @@
+[submodule "github.com/therealssj/hardware-wallet-protob"]
+	path = src/device-wallet/messages
+	url = git@github.com:therealssj/hardware-wallet-protob
